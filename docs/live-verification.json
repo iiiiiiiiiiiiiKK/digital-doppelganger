@@ -1,0 +1,102 @@
+[
+  {
+    "name": "live site returns HTTP 200",
+    "ok": true,
+    "detail": "status=200"
+  },
+  {
+    "name": "live title is the product title",
+    "ok": true,
+    "detail": "Digital Doppelgänger — ME, BUT DIGITAL."
+  },
+  {
+    "name": "live CSS/JS assets resolve under the Pages base path",
+    "ok": true,
+    "detail": "[{\"url\":\"/digital-doppelganger/assets/index-3QQ3sI3j.js\",\"status\":200},{\"url\":\"/digital-doppelganger/assets/index-CmOOYkCD.css\",\"status\":200}]"
+  },
+  {
+    "name": "app boots on the live deployment",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: author 𝕏 link present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: X link renders 𝕏 glyph",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: X link opens in a new tab with noopener",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: wizard creates a doppelgänger",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: seed memory persisted",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: memory creation works",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: chat answers with citation block",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: prediction locked before answer",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: comparison rendered",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: IndexedDB persists across reload",
+    "ok": true,
+    "detail": "[\"digital-doppelganger\"]"
+  },
+  {
+    "name": "live: reload keeps the user inside the app",
+    "ok": true,
+    "detail": "#/decisions"
+  },
+  {
+    "name": "live mobile: no horizontal overflow",
+    "ok": true,
+    "detail": "overflow=0px"
+  },
+  {
+    "name": "live mobile: author 𝕏 link visible",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live mobile: no uncaught page errors",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: no uncaught page errors (desktop)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "name": "live: no console errors (desktop)",
+    "ok": true,
+    "detail": ""
+  }
+]

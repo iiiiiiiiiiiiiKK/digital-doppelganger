@@ -16,3 +16,5 @@ npm-debug.log*
 !.vscode/extensions.json
 .idea/
 *.tsbuildinfo
+e2e-artifacts-live/
+
